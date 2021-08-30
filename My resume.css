@@ -1,0 +1,15 @@
+body{text-align:left;}
+h1{color:red; font-size:160% ; font:bold; font:underline; text-align:center}
+table{border:solid; text-align="center"; }
+h2{ font-size:88%;}
+h3{ font-size:70%;}
+h4,h5{ font-size:70% ;}
+h6{font-size:88%; font:bold;}
+h7,h9{font-size:88%;}
+
+body
+{
+	 background-image:url(resumeimage6.jpg); 
+	 background-repeat:no-repeat;
+	 background-size:cover;
+}
